@@ -1,5 +1,10 @@
 # Prerequisites
 *.d
+*.suo
+*.db*
+*.opendb
+*.ipch
+*.vc*
 
 # Compiled Object files
 *.slo
@@ -27,6 +32,6 @@
 *.lib
 
 # Executables
-*.exe
+*.exe*
 *.out
 *.app
